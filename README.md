@@ -13,9 +13,9 @@ Set up a Matlab environment for R2016a version
 
 You can download the dataset by referring to the URL.
 
-https://github.com/liuchaonihao/Paper.git
+https://github.com/liuchaonihao/TPSVR.git
 
-2. Training
+2. Code
 
 Run mulphrdemo.m
 
