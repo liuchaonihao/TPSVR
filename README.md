@@ -9,7 +9,7 @@ Set up a Matlab environment for R2016a version
 
 ## Source
 
-1. Datasets
+1. Dataset
 
 You can download the dataset by referring to the URL.
 
